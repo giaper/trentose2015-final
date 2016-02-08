@@ -4,6 +4,8 @@
  */
 
 var SantaModel = {
+    
+    /*cool*/
   
   /* Initializes the model with a list of requests, 
    * and sets the first one as the current one 
